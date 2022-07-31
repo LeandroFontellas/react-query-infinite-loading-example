@@ -54,7 +54,7 @@ function App() {
             ) : hasNextPage ? (
               'Load more..'
             ) : (
-              'Nothing else to be loaded anymore'
+              'Nothing else to be loaded'
             )}
           </button>
         </div>
